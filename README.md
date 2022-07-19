@@ -1,11 +1,11 @@
 # API REST INVENTARIO 📚
 
-Control de inventario con stock y control de ventas con actualización de stock.
+Control de inventario con stock y control de ventas con actualización de stock.<br>
 Generación de reportes para exportar inventario y ventas a excel
 
-◼ Node con express.js
-◼ MongoDB con Mongo Atlas
-◼ excel4node para exportar los reportes a excel
+◼ Node con express.js<br>
+◼ MongoDB con Mongo Atlas<br>
+◼ excel4node para exportar los reportes a excel<br>
 
 # Endpoints
 
