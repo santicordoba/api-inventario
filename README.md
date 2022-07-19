@@ -9,8 +9,8 @@ Generación de reportes para exportar inventario y ventas a excel
 
 # Endpoints
 
-/users -> Lista de usuarios | creación de usuarios
-/sales -> Lista de ventas | creación de ventas
-/products -> Lista de productos | Producto por id | Actualizar producto | Crear Producto | Eliminar producto
-/products/report -> Genera un excel del inventario
-/sales/report -> Genera un excel de las ventas
+/users -> Lista de usuarios | creación de usuarios<br>
+/sales -> Lista de ventas | creación de ventas<br>
+/products -> Lista de productos | Producto por id | Actualizar producto | Crear Producto | Eliminar producto<br>
+/products/report -> Genera un excel del inventario<br>
+/sales/report -> Genera un excel de las ventas<br>
